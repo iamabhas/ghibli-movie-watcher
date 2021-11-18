@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ghibli-movie-watcher/static/css/main.a5b31752.chunk.css",
+    "main.js": "/ghibli-movie-watcher/static/js/main.2aa7b441.chunk.js",
+    "main.js.map": "/ghibli-movie-watcher/static/js/main.2aa7b441.chunk.js.map",
+    "runtime-main.js": "/ghibli-movie-watcher/static/js/runtime-main.4abfc54c.js",
+    "runtime-main.js.map": "/ghibli-movie-watcher/static/js/runtime-main.4abfc54c.js.map",
+    "static/js/2.846ae2ad.chunk.js": "/ghibli-movie-watcher/static/js/2.846ae2ad.chunk.js",
+    "static/js/2.846ae2ad.chunk.js.map": "/ghibli-movie-watcher/static/js/2.846ae2ad.chunk.js.map",
+    "index.html": "/ghibli-movie-watcher/index.html",
+    "static/css/main.a5b31752.chunk.css.map": "/ghibli-movie-watcher/static/css/main.a5b31752.chunk.css.map",
+    "static/js/2.846ae2ad.chunk.js.LICENSE.txt": "/ghibli-movie-watcher/static/js/2.846ae2ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4abfc54c.js",
+    "static/js/2.846ae2ad.chunk.js",
+    "static/css/main.a5b31752.chunk.css",
+    "static/js/main.2aa7b441.chunk.js"
+  ]
+}
